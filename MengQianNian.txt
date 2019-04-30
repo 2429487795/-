@@ -1,7 +1,5 @@
-版本号1.6.12版本号
+版本号版本号
 
-更新内容微调布局，更凸显主题颜色
-修正了部分对话框按钮的颜色设置问题
-解决了部分图片问题更新内容
+更新内容更新内容
 
-下载地址https://github.com/DOGE-tt/onCode/releases/download/1.6.12/demo.barcode.scanning.apk下载地址
+下载地址下载地址
